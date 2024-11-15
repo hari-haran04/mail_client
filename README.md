@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/email-client-app.git
+git clone 
 cd email-client-app
 Set up the PostgreSQL database:
 
@@ -91,4 +91,4 @@ Spring Boot Starter Web
 Spring Boot Starter Data JPA
 PostgreSQL Driver
 License
-This project is licensed under the MIT License.
+
